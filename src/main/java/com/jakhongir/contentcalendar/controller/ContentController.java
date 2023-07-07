@@ -2,7 +2,6 @@ package com.jakhongir.contentcalendar.controller;
 
 import com.jakhongir.contentcalendar.model.Content;
 import com.jakhongir.contentcalendar.model.Status;
-import com.jakhongir.contentcalendar.repository.ContentCollectionRepository;
 import com.jakhongir.contentcalendar.repository.ContentRepository;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
